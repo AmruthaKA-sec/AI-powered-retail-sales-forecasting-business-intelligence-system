@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-AI-powered-retail-sales-forecasting-business-intelligence-system
-Developing an end-to-end AI-powered retail sales forecasting and business intelligence system using Python, Machine Learning, SHAP Explainable AI, and Power BI to analyze sales trends, forecast demand, and generate business insights. The project includes data preprocessing, feature engineering, exploratory data analysis, forecasting model development, and dashboard preparation using real-world retail and weather datasets.
-=======
 # AI-powered-retail-sales-forecasting-business-intelligence-system
-Developing an end-to-end AI-powered retail sales forecasting and business intelligence system using Python, Machine Learning, SHAP Explainable AI, and Power BI to analyze sales trends, forecast demand, and generate business insights. The project includes data preprocessing, feature engineering, exploratory data analysis, forecasting model development, and dashboard preparation using real-world retail and weather datasets.
->>>>>>> 7f1903bd1154fc29e45003902b4ea139d157c892
+Developing an end-to-end AI-powered retail sales forecasting and business intelligence system using Python, Machine Learning, SHAP Explainable AI, and Power BI to analyze sales trends, forecast demand, and generate business insights. 
+The project includes data preprocessing, feature engineering, exploratory data analysis, forecasting model development, and dashboard preparation using real-world retail and weather datasets.
+
